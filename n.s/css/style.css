@@ -1,0 +1,9 @@
+div{
+
+    width: 500px;
+    height: 500px; 
+    background-image:url(../img/saha/download.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
